@@ -1,0 +1,10 @@
+{
+    "Todo": {
+        "id": {
+            "int": 1
+        },
+        "published": {
+            "boolean": {}
+        }
+    }
+}
